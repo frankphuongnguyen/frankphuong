@@ -15,9 +15,9 @@ params:
 
 menu:
   main:
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: abouts
+      name: Abouts
+      url: /abouts/
       weight: 2
     - identifier: archive
       name: Archive
