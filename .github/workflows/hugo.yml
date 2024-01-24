@@ -39,7 +39,7 @@ jobs:
       - name: Install Dart Sass
         run: sudo snap install dart-sass
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
       - name: Checkout submodule
         run: git submodule update --init --recursive
       - name: Setup Pages
