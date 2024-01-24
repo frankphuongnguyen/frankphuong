@@ -38,10 +38,10 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Install Dart Sass
         run: sudo snap install dart-sass
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          submodules: recursive
+      - name: Checkout submodule
+        run: git submodule update --init --recursive
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
