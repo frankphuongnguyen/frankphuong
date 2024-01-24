@@ -1,0 +1,35 @@
+baseURL: 'http://localhost:1313/'
+languageCode: 'en-us'
+title: 'Frank Phuong'
+theme: 'PaperMod'
+
+params:
+  homeInfoParams:
+    Title: Nguyen Huu Phuong (Frank)
+    Content: Writer | Engineer | Product | Design
+  socialIcons:
+    - name: "linkedin"
+      url: "https://linkedin.com/in/frankphuongnguyen"
+    - name: "facebook"
+      url: "https://www.facebook.com/frankphuongnguyen"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 2
+    - identifier: archive
+      name: Archive
+      url: /archive/
+      weight: 1
+    - identifier: tags
+      name: Tags
+      url: /tags/
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
