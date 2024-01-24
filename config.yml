@@ -5,7 +5,7 @@ theme: 'PaperMod'
 
 params:
   homeInfoParams:
-    Title: Nguyen Huu Phuong (Frank)
+    Title: Nguyen Huu Phuong (Frank) 🙋🏻‍♂️
     Content: Writer | Engineer | Product | Design
   socialIcons:
     - name: "linkedin"
