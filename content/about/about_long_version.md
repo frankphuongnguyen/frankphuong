@@ -5,7 +5,7 @@ draft: false
 ---
 Xin chào, mình là Hữu Phương, bạn có cũng có thể gọi mình là Frank.
 
-Hiện tại mình là một ex-Data Engineer <b>@VieON</b>.
+Hiện tại mình là một ex-Data Engineer @VieON.
 
 Mình bén duyên với mảng Data Engineering từ 2018 với vai trò thực tập sinh tại FPT Truyền Hình (thuộc FPT Telecom). Công việc chủ yếu của mình ở đây là research, thời điểm đó thì Data Engineer vẫn chưa thực sự phổ biến như hiện tại. Tuy đóng góp không được nhiều nhưng từ đây, mình đã học được nhiều concept, và thực sự viết những dòng code đầu tiên về xử lý dữ liệu.
 
