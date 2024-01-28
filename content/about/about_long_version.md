@@ -20,7 +20,9 @@ Năm nay mình học viết, một thứ đã bị mình bỏ quên từ lâu. �
 
 ---
 Bạn đã từng đến Kon Tum bao giờ chưa?
+
 Đó là nơi mình sinh ra và lớn lên, tại một xã nhỏ yên bình, không mấy ồn ào, với mình đó là một điều hạnh phúc vô cùng may mắn.
+
 Sớm thôi, mình sẽ du lịch khắp Kon Tum. Tại sao lại không nhỉ? Có đôi lúc bạn nhận ra những thứ rất quan trọng với bản thân mình, nhưng lại cứ ỷ y rằng nó vẫn sẽ mãi ở đó. Nhưng có phải thực sự là như thế không? Có phải khi mất đi, lúc đó mới bắt đầu đi tìm?
 
 ---
