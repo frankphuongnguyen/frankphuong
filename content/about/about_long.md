@@ -15,9 +15,9 @@ Sau đó, cuối 2020 mình về đầu quân cho VieON, lúc đó được kho�
 
 ---
 Mình cứ đinh ninh có gì đó không đúng lắm đối với công việc này. Sau một thời gian suy tính thì mình quyết định nghỉ ngơi 1 thời gian để suy nghĩ về cuộc đời.
-Và may mắn là, mình bắt đầu mò mẫm được điểm cân bằng, bắt đầu có thể bước ra khỏi vùng an toàn.
 
 Trước tiên mình bắt đầu viết lại, một thứ đã bị mình bỏ quên từ lâu. Để xem với việc bắt đầu thói quen nhỏ này, mình sẽ đi đến đâu.
+Và trong năm nay, mình sẽ có thay đổi lớn trong sự nghiệp.
 
 ---
 Bạn đã từng đến Kon Tum bao giờ chưa?
@@ -29,7 +29,7 @@ Sớm thôi, mình sẽ du lịch khắp Kon Tum. Tại sao lại không nhỉ? 
 ---
 Mục đích của blog này, là việc mình mang bản thân ra với thế giới chứ không chỉ gói gọn trong công việc.
 
-Hi vọng tìm được những con người cùng chung tinh thần, giá trị sống qua những con chữ và giúp ích cho bạn một vài thông tin hay góc nhìn trong cuộc sống.
+Hi vọng tìm được những con người cùng chung tinh thần, giá trị sống qua những con chữ và giúp ích cho bạn một vài thông tin hay góc nhìn mới mẻ nhé.
 
 Chúc bạn đọc blog vui vẻ.
 
