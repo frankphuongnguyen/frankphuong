@@ -14,7 +14,7 @@ Giữa 2019, mình quyết định thử sức tại một môi trường làm v
 Sau đó, cuối 2020 mình về đầu quân cho VieON, lúc đó được khoảng 6 tháng tuổi, mọi thứ cũng còn rất mới, và có rất nhiều thử thách. Thời gian ở VieON là khoảng thời gian khá khó khăn với bản thân mình về cả mặt kỹ năng lẫn con người. Tuy nhiên cũng là giai đoạn mình trưởng thành, và nhất là thay đổi nhiều về mindset.
 
 ---
-Mình cứ đinh ninh có gì đó không đúng lắm đối với công việc này. Sau một thời gian suy tính thì mình quyết định nghỉ ngơi 1 thời gian để suy nghĩ về cuộc đời.
+Nhưng mình cứ cảm thấy có gì đó lấn cấn đối với công việc này, mình không cảm thấy sự fulfillment ở vai trò này, mình cần thay đổi nhưng chưa biết nó là gì. Sau một thời gian suy tính thì mình quyết định nghỉ ngơi 1 thời gian để suy nghĩ về cuộc đời.
 
 Trước tiên mình bắt đầu viết lại, một thứ đã bị mình bỏ quên từ lâu. Để xem với việc bắt đầu thói quen nhỏ này, mình sẽ đi đến đâu.
 Và trong năm nay, mình sẽ có thay đổi lớn trong sự nghiệp.
