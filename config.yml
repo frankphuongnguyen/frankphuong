@@ -1,5 +1,26 @@
 baseURL: 'https://frankphuongnguyen.github.io/frankphuong/'
 languageCode: 'en-us'
+languages:
+  en:
+    contentDir: content/posts/en
+    disable: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+    title: Project Documentation
+    weight: 1
+  vn:
+    contentDir: content/posts/vn
+    disable: false
+    languageCode: vi-VN
+    languageDirection: ltr
+    languageName: Vietnamese
+    params:
+      subtitle: Tham khảo
+    title: Dự án
+    weight: 2
 title: 'Frank Phuong'
 theme: 'PaperMod'
 
