@@ -2,7 +2,7 @@ baseURL: 'https://frankphuongnguyen.github.io/frankphuong/'
 languageCode: 'en-us'
 languages:
   en:
-    contentDir: content/en
+    contentDir: content/english
     disable: false
     languageCode: en-US
     languageDirection: ltr
@@ -12,7 +12,7 @@ languages:
     title: Project Documentation
     weight: 1
   vn:
-    contentDir: content/vn
+    contentDir: content/vietnamese
     disable: false
     languageCode: vi-VN
     languageDirection: ltr
