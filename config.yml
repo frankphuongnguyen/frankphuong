@@ -7,9 +7,6 @@ languages:
     languageCode: en-US
     languageDirection: ltr
     languageName: English
-    params:
-      subtitle: Reference, Tutorials, and Explanations
-    title: Project Documentation
     weight: 1
   vn:
     contentDir: content/vietnamese
@@ -17,9 +14,6 @@ languages:
     languageCode: vi-VN
     languageDirection: ltr
     languageName: Vietnamese
-    params:
-      subtitle: Tham khảo
-    title: Dự án
     weight: 2
 title: 'Frank Phuong'
 theme: 'PaperMod'
@@ -38,15 +32,15 @@ menu:
   main:
     - identifier: about
       name: About
-      url: /vietnamese/about/
+      url: /about/
       weight: 2
     - identifier: archive
       name: Archive
-      url: /vietnamese/archive/
+      url: /archive/
       weight: 1
     - identifier: tags
       name: Tags
-      url: /vietnamese/tags/
+      url: /tags/
 
 outputs:
   home:
