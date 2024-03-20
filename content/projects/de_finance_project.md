@@ -1,13 +1,13 @@
 ---
 title: Data Engineering Finance Project - Last Capital - 001. Overview platform
 date: 2023-02-10
+showtoc: true
 draft: false
 ---
 
 #### Propeties
 
 Github repository: [de_finance_project](https://github.com/frankphuongnguyen/)
-Date created: 2024-03-10
 Tags: #finance, #dataengineering
 
 
