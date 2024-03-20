@@ -31,7 +31,7 @@ menu:
       name: Blogs
       url: /blogs/
       weight: 1
-    - identifier: project
+    - identifier: projects
       name: Projects
       url: /projects/
     - identifier: tags
