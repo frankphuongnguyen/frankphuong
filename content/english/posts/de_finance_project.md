@@ -1,5 +1,5 @@
 ---
-title: [Data Engineering Finance Project - Last Capital] - 001. Overview platform
+title: Data Engineering Finance Project - Last Capital - 001. Overview platform
 date: 2023-02-10
 draft: false
 ---
