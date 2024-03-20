@@ -2,7 +2,7 @@ baseURL: 'https://frankphuongnguyen.github.io/frankphuong/'
 languageCode: 'en-us'
 languages:
   en:
-    contentDir: content/english
+    contentDir: content
     disable: false
     languageCode: en-US
     languageDirection: ltr
