@@ -1,10 +1,12 @@
 ---
-title: Data Engineering Finance Project - Last Capital - 001. Overview platform
+title: DE Project - Last Capital - 001. Overview
 date: 2023-02-10
 showtoc: true
+tocopen: true
 draft: false
 params:
   ShowShareButtons: true
+  ShowBreadCrumbs: true
 ---
 
 #### Propeties
