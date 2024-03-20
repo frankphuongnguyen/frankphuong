@@ -10,7 +10,6 @@ Github repository: [de_finance_project](https://github.com/frankphuongnguyen/)
 Date created: 2024-03-10
 Tags: #finance, #dataengineering
 
----
 
 ## Introduction
 
@@ -33,7 +32,6 @@ To be clear and more unstandable about this company, I suppose company have some
 
 This is overview about Last Capital's platform and strategy about data. But in this post, we just focus on "Collect user data using web/app", if I have more chance, we will build anothers function later.
 
----
 
 ## Let's jump in
 
@@ -75,13 +73,13 @@ Answers:
 - Total number users we have is ~5000, and the accuracy daily user active is ~75%. ()
 - 
 
----
+
 So, I think we can build system on on-premise version and cloud version.
 
 - [[Data Engineering Finance Project - Last Capital] - 002. On-premise version]()
 - [[Data Engineering Finance Project - Last Capital] - 003. Cloud version (AWS)]()
 
----
+
 Related:
 
 - [01][The Data Engineering Lifecycle](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/ch02.html)
