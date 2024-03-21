@@ -10,6 +10,7 @@ languages:
     weight: 1
 title: 'Frank Phuong'
 theme: 'PaperMod'
+mainsections: ["blogs", "project"]
 
 params:
   env: production
