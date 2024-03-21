@@ -3,9 +3,9 @@ title: 'About me'
 date: 2023-11-18T01:50:58+07:00
 draft: false
 ---
-Xin chào, mình là Hữu Phương, bạn có cũng có thể gọi mình là Frank.
+Hello, I am Phuong, you can call me is Frank.
 
-Hiện tại mình là một ex-Data Engineer @VieON.
+My strongest skill is about Data Engineering.
 
 Mình bén duyên với mảng Data Engineering từ 2018 với vai trò thực tập sinh tại FPT Truyền Hình (thuộc FPT Telecom). Công việc chủ yếu của mình ở đây là research, thời điểm đó Data Engineer vẫn chưa thực sự phổ biến như hiện tại. Tuy đóng góp không được nhiều nhưng từ đây, mình đã học được nhiều concept, và thực sự viết những dòng code đầu tiên về xử lý dữ liệu.
 
