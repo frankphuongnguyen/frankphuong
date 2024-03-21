@@ -13,7 +13,14 @@ languages:
 paginate: 5
 title: 'Frank Phuong'
 theme: 'PaperMod'
-mainsections: ["blogs", "project"]
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["blogs", "projects", "about"]
 
 params:
   env: production
@@ -39,6 +46,9 @@ params:
 
       - Hopefully you can find somethings useful from here.
   socialIcons:
+    - name: email
+      title: Official email for work
+      url: 'mailto:frank.phuongnguyen@gmail.com'
     - name: github
       title: View my Github profile
       url: "https://github.com/frankphuongnguyen"
@@ -51,17 +61,25 @@ params:
 
 menu:
   main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
     - identifier: about
       name: About
       url: /about/
-      weight: 2
+      weight: 5
     - identifier: archive
       name: Archive
       url: archives
-      weight: 1
+      weight: 2
     - identifier: tags
       name: Tags
       url: tags/
+      weight: 3
+    - identifier: Resume
+      name: Résume
+      url: resume/
 
 outputs:
   home:
