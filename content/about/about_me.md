@@ -2,6 +2,7 @@
 title: 'About me'
 date: 2023-11-18T01:50:58+07:00
 draft: false
+summary: 'Hi, I am Phuong (Frank), I live in Ho Chi Minh City, with passionate with building startup.'
 ---
 Hello, I am Phuong, you can call me is Frank.
 
