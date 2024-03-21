@@ -53,7 +53,7 @@ menu:
       weight: 2
     - identifier: archive
       name: archive
-      url: archive
+      url: archives
       weight: 1
     - identifier: tags
       name: Tags
