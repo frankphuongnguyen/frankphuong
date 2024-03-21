@@ -1,6 +1,6 @@
 ---
 title: DE Project - Last Capital - 001. Overview
-date: 2023-02-10
+date: 2024-02-10
 showtoc: true
 tocopen: true
 draft: false
