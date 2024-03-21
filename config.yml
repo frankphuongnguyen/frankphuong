@@ -30,7 +30,9 @@ params:
     Title: Nguyen Huu Phuong (Frank) 🙋
     Content: >
       Hello I'm Phuong, a Data Engineer (currently).
+
       I write about some field I interested in Data | Engineering | Product | Design | Business.
+
       Hopefully you can find somethings useful from here.
   socialIcons:
     - name: github
