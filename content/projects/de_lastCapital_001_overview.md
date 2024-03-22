@@ -1,19 +1,21 @@
 ---
 title: DE Project - Last Capital - 001. Overview
 date: 2024-02-10
+summary: [Data Engineering project] Overview about Last Capital.
 showtoc: true
-tocopen: true
+tocopen: false
 draft: false
 params:
   ShowShareButtons: true
   ShowBreadCrumbs: true
+tags:
+  - finance
+  - data engineering
 ---
 
 #### Propeties
 
 Github repository: [de_finance_project](https://github.com/frankphuongnguyen/)
-Tags: #finance, #dataengineering
-
 
 ## Introduction
 
