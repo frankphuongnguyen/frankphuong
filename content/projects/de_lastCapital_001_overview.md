@@ -1,7 +1,7 @@
 ---
 title: DE Project - Last Capital - 001. Overview
 date: 2024-02-10
-summary: [Data Engineering project] Overview about Last Capital.
+summary: Overview about Last Capital.
 showtoc: true
 tocopen: false
 draft: false
