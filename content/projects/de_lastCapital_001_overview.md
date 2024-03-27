@@ -15,7 +15,7 @@ tags:
 
 |Properties|Description|
 |---|---|
-|Github repository|[de_finance_project](https://github.com/frankphuongnguyen/)|
+|Github repository|[Data engineering - Last Capital](https://github.com/frankphuongnguyen/)|
 
 ## Introduction
 
