@@ -1,7 +1,7 @@
 ---
 title: 'Bước đầu tiên ...'
 date: 2023-11-18T01:29:58+07:00
-draft: false
+draft: true
 ---
 
 ### Bạn có viết nhiều không?
