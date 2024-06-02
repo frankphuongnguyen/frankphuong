@@ -22,6 +22,10 @@ enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["blogs", "projects"]
 
+services:
+  googleAnalytics:
+    ID: G-2Y6EGWP247
+
 params:
   env: production
   author: "Frank Phuong"
@@ -40,7 +44,7 @@ params:
   homeInfoParams:
     Title: Nguyen Huu Phuong (Frank) 🙋
     Content: >
-      Hello, I am Phuong, a Data Engineer (currently)
+      Hello, I am Phuong, I was a Data Engineer.
 
       - I write about some field I interested in Data | Engineering | Product | Design | Business. 
 
